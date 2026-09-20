@@ -98,7 +98,7 @@ export const QuizView: React.FC = () => {
         resolve();
       };
       watermarkImg.onerror = () => resolve();
-      watermarkImg.src = '/logo-mf.png';
+      watermarkImg.src = `${import.meta.env.BASE_URL}logo-mf.png`;
       setTimeout(resolve, 350);
     });
 

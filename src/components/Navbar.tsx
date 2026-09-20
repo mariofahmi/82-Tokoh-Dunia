@@ -29,7 +29,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </div>
               <div className="w-11 h-11 rounded-xl bg-white p-1 flex items-center justify-center shadow-md shadow-emerald-950/10 border border-[#c4ecd3] group-hover:scale-105 transition-transform overflow-hidden">
                 <img
-                  src="/logo-mf.png"
+                  src={`${import.meta.env.BASE_URL}logo-mf.png`}
                   alt="Logo Mario Fahmi"
                   className="w-full h-full object-contain"
                 />

@@ -89,7 +89,7 @@ export const MethodologyView: React.FC = () => {
         <div className="flex items-center gap-3.5">
           <div className="w-12 h-12 rounded-2xl bg-white p-1 flex items-center justify-center shadow-md border border-emerald-300 shrink-0 overflow-hidden">
             <img
-              src="/logo-mf.png"
+              src={`${import.meta.env.BASE_URL}logo-mf.png`}
               alt="Logo Mario Fahmi"
               className="w-full h-full object-contain"
             />
