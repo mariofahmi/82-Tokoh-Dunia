@@ -8,7 +8,7 @@ export const Footer: React.FC = () => {
       </p>
       <div className="inline-flex items-center gap-2 bg-emerald-100/90 text-emerald-950 font-bold px-3.5 py-1 rounded-full border border-emerald-300 shadow-sm text-xs">
         <span>✨ Perancang & Pengembang:</span>
-        <strong className="text-emerald-900 underline font-black">Mario Fahmi Syharial</strong>
+        <strong className="text-emerald-900 underline font-black">Mario Fahmi Syahrial</strong>
       </div>
       <p className="text-emerald-700 text-[11px]">
         Arsip dokumentasi sejarah tervalidasi dari Wikimedia Commons & Wikipedia &bull; Bebas Sentimen Agama &bull; Edukasi Terbuka

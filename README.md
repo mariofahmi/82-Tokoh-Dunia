@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Repository Resmi:** [https://github.com/mariofahmi/82-Tokoh-Dunia](https://github.com/mariofahmi/82-Tokoh-Dunia)  
-**Perancang & Pengembang Aplikasi:** **Mario Fahmi Syharial**
+**Perancang & Pengembang Aplikasi:** **Mario Fahmi Syahrial**
 
 ---
 
@@ -107,7 +107,7 @@ Aplikasi ini dirancang untuk memberikan pengalaman belajar sejarah yang memikat,
 ```text
 82-tokoh-dunia/
 ├── public/
-│   ├── logo-mf.png          # Logo Mario Fahmi Syharial (Watermark & Atribusi)
+│   ├── logo-mf.png          # Logo Mario Fahmi Syahrial (Watermark & Atribusi)
 │   └── logo-unirow.png      # Logo Institusi / Mitra
 ├── src/
 │   ├── components/
@@ -138,7 +138,7 @@ Aplikasi ini dirancang untuk memberikan pengalaman belajar sejarah yang memikat,
 
 ## 👤 Perancang & Pengembang
 
-**Mario Fahmi Syharial**  
+**Mario Fahmi Syahrial**  
 *Aplikasi Edukasi Interaktif 82 Tokoh Dunia (Edisi Khusus Sains, Penemuan & Peradaban)*  
 GitHub: [@mariofahmi](https://github.com/mariofahmi)  
 Repository: [https://github.com/mariofahmi/82-Tokoh-Dunia](https://github.com/mariofahmi/82-Tokoh-Dunia)

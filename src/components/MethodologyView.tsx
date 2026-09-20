@@ -99,7 +99,7 @@ export const MethodologyView: React.FC = () => {
               Inisiator & Perancang Aplikasi
             </span>
             <h3 className="font-serif text-lg font-bold text-emerald-950">
-              Mario Fahmi Syharial
+              Mario Fahmi Syahrial
             </h3>
             <p className="text-xs text-emerald-800">
               Penggagas kurasi digital 82 tokoh Michael H. Hart untuk edukasi sains & peradaban dunia.

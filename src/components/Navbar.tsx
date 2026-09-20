@@ -46,7 +46,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 </span>
                 <span className="text-emerald-400">&bull;</span>
                 <span className="bg-emerald-200/90 text-emerald-950 px-2.5 py-0.5 rounded-full font-black text-[11px] border border-emerald-300 shadow-xs">
-                  Perancang: Mario Fahmi Syharial
+                  Perancang: Mario Fahmi Syahrial
                 </span>
               </div>
             </div>
