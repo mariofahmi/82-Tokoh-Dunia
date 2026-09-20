@@ -1,0 +1,6 @@
+{
+  "name": "82 Tokoh Dunia",
+  "description": "Aplikasi edukasi interaktif 82 Tokoh Paling Berpengaruh dalam Sejarah versi Michael H. Hart (Edisi Sains, Penemuan & Peradaban Dunia) dengan Galeri Eksplorasi, Kuis Tebak Wajah Tokoh, dan Kuis Tebak Pengaruh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
