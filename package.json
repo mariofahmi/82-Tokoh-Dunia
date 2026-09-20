@@ -9,8 +9,7 @@
     "preview": "vite preview",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npm run build && powershell -NoProfile -Command \"Push-Location dist; git init; git checkout -B gh-pages; git add -A; git commit -m 'deploy: update gh-pages'; git push -f origin gh-pages; Pop-Location; Remove-Item -Recurse -Force dist/.git\""
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
